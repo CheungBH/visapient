@@ -1,0 +1,1 @@
+python src/Multiple/test_multiple_people.py --video Video/ValVideo/multiple3.mp4
